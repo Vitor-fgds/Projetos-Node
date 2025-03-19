@@ -1,0 +1,103 @@
+[
+    {
+      "nome": "Paracetamol",
+      "formula": "C8H9NO2",
+      "pesoMolar": 151.16,
+      "classeTerapeutica": "Analgésicos",
+      "indicacoesTerapeuticas": ["Febre", "Dor de cabeça", "Dores musculares"],
+      "contraIndicacoes": ["Doença hepática grave", "Alergia ao paracetamol"],
+      "efeitosColaterais": ["Reações alérgicas", "Toxicidade hepática em altas doses"],
+      "classeFarmacologica": "Anilidas"
+    },
+    {
+      "nome": "Ibuprofeno",
+      "formula": "C13H18O2",
+      "pesoMolar": 206.28,
+      "classeTerapeutica": "Anti-inflamatórios",
+      "indicacoesTerapeuticas": ["Dor muscular", "Inflamação", "Febre"],
+      "contraIndicacoes": ["Úlcera gástrica", "Insuficiência renal"],
+      "efeitosColaterais": ["Irritação gástrica", "Náusea", "Tontura"],
+      "classeFarmacologica": "AINE (Anti-inflamatório não esteroide)"
+    },
+    {
+      "nome": "Amoxicilina",
+      "formula": "C16H19N3O5S",
+      "pesoMolar": 365.40,
+      "classeTerapeutica": "Antibióticos",
+      "indicacoesTerapeuticas": ["Infecção respiratória", "Otite", "Infecção urinária"],
+      "contraIndicacoes": ["Alergia à penicilina"],
+      "efeitosColaterais": ["Diarreia", "Erupções cutâneas", "Náusea"],
+      "classeFarmacologica": "Beta-lactâmicos"
+    },
+    {
+      "nome": "Azitromicina",
+      "formula": "C38H72N2O12",
+      "pesoMolar": 748.98,
+      "classeTerapeutica": "Antibióticos",
+      "indicacoesTerapeuticas": ["Pneumonia", "Faringite", "Infecção de pele"],
+      "contraIndicacoes": ["Doença hepática grave", "Arritmia cardíaca"],
+      "efeitosColaterais": ["Diarreia", "Dor abdominal", "Vômito"],
+      "classeFarmacologica": "Macrolídeos"
+    },
+    {
+      "nome": "Loratadina",
+      "formula": "C22H23ClN2O2",
+      "pesoMolar": 382.89,
+      "classeTerapeutica": "Antihistamínicos",
+      "indicacoesTerapeuticas": ["Rinite alérgica", "Urticária"],
+      "contraIndicacoes": ["Alergia à loratadina"],
+      "efeitosColaterais": ["Sonolência", "Boca seca", "Dor de cabeça"],
+      "classeFarmacologica": "Antihistamínicos de segunda geração"
+    },
+    {
+      "nome": "Dipirona",
+      "formula": "C13H16N3NaO4S",
+      "pesoMolar": 333.35,
+      "classeTerapeutica": "Antipiréticos",
+      "indicacoesTerapeuticas": ["Febre alta", "Dores intensas"],
+      "contraIndicacoes": ["Insuficiência hepática", "Alergia a pirazolonas"],
+      "efeitosColaterais": ["Queda da pressão arterial", "Reações alérgicas graves"],
+      "classeFarmacologica": "Pirazolonas"
+    },
+    {
+      "nome": "Cetirizina",
+      "formula": "C21H25ClN2O3",
+      "pesoMolar": 388.89,
+      "classeTerapeutica": "Antihistamínicos",
+      "indicacoesTerapeuticas": ["Alergias respiratórias", "Urticária"],
+      "contraIndicacoes": ["Doença renal grave"],
+      "efeitosColaterais": ["Sonolência", "Tontura", "Boca seca"],
+      "classeFarmacologica": "Antihistamínicos de segunda geração"
+    },
+    {
+      "nome": "Omeprazol",
+      "formula": "C17H19N3O3S",
+      "pesoMolar": 345.42,
+      "classeTerapeutica": "Anti-inflamatórios",
+      "indicacoesTerapeuticas": ["Refluxo gastroesofágico", "Úlcera gástrica"],
+      "contraIndicacoes": ["Doença hepática grave"],
+      "efeitosColaterais": ["Dor de cabeça", "Diarreia", "Tontura"],
+      "classeFarmacologica": "Inibidor da bomba de prótons"
+    },
+    {
+      "nome": "Albendazol",
+      "formula": "C12H15N3O2S",
+      "pesoMolar": 265.34,
+      "classeTerapeutica": "Antiparasitários",
+      "indicacoesTerapeuticas": ["Helmintíases", "Neurocisticercose"],
+      "contraIndicacoes": ["Gravidez", "Doença hepática severa"],
+      "efeitosColaterais": ["Dor abdominal", "Náusea", "Tontura"],
+      "classeFarmacologica": "Benzoimidazóis"
+    },
+    {
+      "nome": "Oseltamivir",
+      "formula": "C16H28N2O4",
+      "pesoMolar": 312.41,
+      "classeTerapeutica": "Antivirais",
+      "indicacoesTerapeuticas": ["Gripe causada pelo vírus Influenza"],
+      "contraIndicacoes": ["Alergia ao oseltamivir"],
+      "efeitosColaterais": ["Náusea", "Vômito", "Dor de cabeça"],
+      "classeFarmacologica": "Inibidores da neuraminidase"
+    }
+  ]
+  
