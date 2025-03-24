@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/register-succeeded.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div class="register-succeeded">
+        <p>O registro foi concluido com sucesso, siga para a página de login para continuar o processo de autenticação.</p>
+        <a href="http://localhost:3000/jobs/login" class="login-page">Go to Login</a>
+    </div>
+</body>
+<script>
+    window.history.replaceState(null, null, "register-succeeded.html");
+    const goToLoginButton = document.querySelector(".login-page")
+    goToLoginButton.addEventListener("click", () => {
+        window.location.replace("http://localhost:3000/jobs/login");
+    })
+</script>
+</html>
